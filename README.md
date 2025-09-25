@@ -46,11 +46,36 @@ I’m passionate about **machine learning, AI, and software engineering**, with 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Storybook AI](#) | Built a creative web app using **Python, REST APIs, Google’s Gemini APIs** to generate photo books with summaries/explanations. | React, Google Gemini API, REST APIs, Axios, CSS |
-| [Ditto, Discord Music Bot](#) | Developed a Discord bot with **Python API** for song requests, downloads, playback, and command handling. | Python, Discord API |
-| [Keysanity Typing Game](#) | 1st place project expo winner 🎉 — designed an interactive typing game with random word generation, score tracking, and metrics. | JavaScript, HTML, CSS, p5.js |
+### 📖 [Storybook AI](#)
+A creative web app using **Python, REST APIs, and Google’s Gemini APIs** to generate photo books with summaries/explanations.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🎵 [Ditto, Discord Music Bot](#)
+2nd place winner 🥈 at SEP Freedom Project Expo — built a **Discord bot with Python API** for song requests, downloads, playback, and commands.  
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+### ⌨️ [Keysanity Typing Game](#)
+1st place winner 🥇 at SEP Freedom Project Expo — developed an interactive typing game with random word generation, score tracking, and performance metrics.  
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 
 ---
 
