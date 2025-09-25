@@ -72,7 +72,7 @@ I’m passionate about **machine learning, AI, and software engineering**, with 
 ## 🌐 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajab-begim/)  
 - 📧 [Email Me](Rajabjeje347@gmail.com)  
-- 🌍 [Portfolio Website](https://rajabb4685.github.io/) *(if you have one)*  
+- 🌍 [Portfolio Website](https://rajabb4685.github.io/) 
 
 ---
 
