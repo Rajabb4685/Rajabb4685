@@ -35,7 +35,12 @@ I’m passionate about **clean code, scalable solutions, and continuous learning
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 - **Other:**  
-  REST APIs, Test-Driven Development
+  ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 
 
 ---
