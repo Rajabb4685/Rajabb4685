@@ -1,71 +1,83 @@
-# Hi, I'm Rajab Begim 👋  
+# 👋 Hi, I’m Rajab Begim
 
-💻 **Aspiring [Your Role, e.g. Data Scientist / Software Engineer / ML Enthusiast]** with hands-on experience in [short summary, e.g. analyzing data, building machine learning models, and developing scalable web apps].  
-I’m passionate about **clean code, scalable solutions, and continuous learning.**
+🎯 **Machine Learning Fellow @ Allstate | AI Fellow @ Break Through Tech AI, Cornell University**  
+📍 New York City, NY | 🎓 B.A. Computer Science, Hunter College (May 2027)  
 
----
-
-### 🌟 About Me
-- 🎓 [Your Degree or Program] at [University or Organization]  
-- 🌱 Currently learning: [e.g. Python for Data Science, React, AWS]  
-- 💡 Interests: [e.g. Web Development, Machine Learning, Cloud Computing]  
-- 📫 Reach me at: [Your Email or LinkedIn URL]  
+I’m passionate about **machine learning, AI, and software engineering**, with hands-on experience building ML models, scalable applications, and leading technical projects. My focus is on **clean code, scalable solutions, and continuous learning**.  
 
 ---
 
+## 🛠️ Technical Skills
+- **Languages & Databases:** Python, Java, C++, JavaScript, SQL  
+- **Frameworks & Libraries:** React.js, Node.js, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Tools & Platforms:** AWS, GitHub, Git, GitLab, Figma, VS Code, Google Gemini API, OpenAI API, REST APIs, HTML, CSS
 
+  ## 🛠️ Tech Stack
 
-### 🛠️ Technical Skills
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-- **Frameworks & Tools:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-- **Databases & Cloud:**  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-- **Other:**  
-  ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=checkmarx&logoColor=white)
-
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project 1](GitHub Repo URL) | Built a [1–line description focused on measurable impact or functionality] | Python, Flask |
-| [Project 2](GitHub Repo URL) | Developed [short impactful description] | React, Node.js |
-| [Project 3](GitHub Repo URL) | Implemented [feature/solution] to solve [problem] | Java, Spring Boot |
+| [Storybook AI](#) | Built a creative web app using **Python, REST APIs, Google’s Gemini APIs** to generate photo books with summaries/explanations. | React, Google Gemini API, REST APIs, Axios, CSS |
+| [Ditto, Discord Music Bot](#) | Developed a Discord bot with **Python API** for song requests, downloads, playback, and command handling. | Python, Discord API |
+| [Keysanity Typing Game](#) | 1st place project expo winner 🎉 — designed an interactive typing game with random word generation, score tracking, and metrics. | JavaScript, HTML, CSS, p5.js |
 
 ---
 
-### 📊 GitHub Highlights
-- 🔹 Contributions to **X+ repositories** across [open source / academic / personal projects]  
-- 🔹 Experience with **version control, code reviews, and collaborative development**  
+## 📌 Experience Highlights
+- **Machine Learning Fellow @ Allstate (2025–Present):** Built regression models (Scikit-learn) for insurance claim cost forecasting.  
+- **AI Fellow @ Cornell University (2025–Present):** Developed deep learning models (TensorFlow, Keras) for classification & vision tasks.  
+- **Software Developer Lead @ Hunter College (2025–Present):** Led a student team to build an AI-powered app for consistent reading habits (Reading Buddy AI).  
+- **Software Intern @ Wyndham Hotels (2024–2025):** SEO optimization, web analytics, and personalization improvements.  
 
 ---
 
-### 🌐 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📂 Portfolio: [Your Portfolio Link] (optional)  
-- 📧 Email: your@email.com  
+## 📊 GitHub Highlights
+- ✨ Contributions across **open source, academic, and personal projects**  
+- 💡 Experience with **version control, collaborative dev, and code reviews**  
+- 📈 Familiar with **ML pipelines, feature engineering, and model evaluation**  
 
 ---
 
-⭐ *Pinned repositories showcase my strongest projects!*  
+## 🌐 Let’s Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajab-begim/)  
+- 📧 [Email Me](Rajabjeje347@gmail.com)  
+- 🌍 [Portfolio Website](https://rajabb4685.github.io/) *(if you have one)*  
 
+---
+
+⭐️ *Fun Fact: I’m always experimenting with new AI models and love building tools that make life a little easier and smarter.*
