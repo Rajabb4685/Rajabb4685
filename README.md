@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rajab Begim
 
-## 🎯 Machine Learning Fellow @ Allstate | AI Fellow @ Break Through Tech AI, Cornell University  
+## 🎯 Machine Learning Fellow @ Allstate | Machine Learning and AI Fellow @ Break Through Tech AI, Cornell University  
 
 📍 New York City, NY  
 🎓 Bachelor of Arts in **Computer Science**, Hunter College, CUNY — *Expected May 2027*  
