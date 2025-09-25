@@ -7,12 +7,8 @@ I’m passionate about **machine learning, AI, and software engineering**, with 
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages & Databases:** Python, Java, C++, JavaScript, SQL  
-- **Frameworks & Libraries:** React.js, Node.js, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Tools & Platforms:** AWS, GitHub, Git, GitLab, Figma, VS Code, Google Gemini API, OpenAI API, REST APIs, HTML, CSS
 
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
