@@ -35,7 +35,7 @@ I’m passionate about **clean code, scalable solutions, and continuous learning
 - 🔹 Experience with **version control, code reviews, and collaborative development**  
 - 🔹 Check out my GitHub Stats below ⬇️  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajabb4685&show_icons=true&theme=default)
 
 ---
 
