@@ -12,7 +12,7 @@ I’m passionate about **machine learning, AI, and software engineering**, with 
 
 - 💡 Interests: **Machine Learning, AI, Software Engineering, Cloud Computing**  
 - 🌱 Currently learning: **Deep Learning, Natural Language Processing, and Cloud Solutions (AWS)**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin/) · [Email](mailto:your@email.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rajab-begim/) · [Email](Rajabjeje347@gmail.com)
 
 ---
 
