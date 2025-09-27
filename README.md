@@ -55,13 +55,17 @@ I’m passionate about **machine learning, AI, and software engineering**, with 
 A creative web app using **Python, REST APIs, and Google’s Gemini APIs** to generate photo books with summaries/explanations.
 
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ReactMarkdown](https://img.shields.io/badge/ReactMarkdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![remark-gfm](https://img.shields.io/badge/remark--gfm-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTMLFlipBook](https://img.shields.io/badge/HTMLFlipBook-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 
