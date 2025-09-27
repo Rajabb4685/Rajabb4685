@@ -51,7 +51,7 @@ I’m passionate about **machine learning, AI, and software engineering**, with 
 
 ## 🚀 Featured Projects
 
-### 📖 [Storybook AI](#)
+### 📖 [Storybook AI](https://github.com/sanilac6459/hunter-hacks)
 A creative web app using **Python, REST APIs, and Google’s Gemini APIs** to generate photo books with summaries/explanations.
 
 **Tech Stack:**  
@@ -64,7 +64,7 @@ A creative web app using **Python, REST APIs, and Google’s Gemini APIs** to ge
 
 ---
 
-### 🎵 [Ditto, Discord Music Bot](#)
+### 🎵 [Ditto, Discord Music Bot](https://github.com/vickyc6811/apcsa-discord-bot)
 2nd place winner 🥈 at SEP Freedom Project Expo — built a **Discord bot with Python API** for song requests, downloads, playback, and commands.  
 
 **Tech Stack:**  
@@ -73,7 +73,7 @@ A creative web app using **Python, REST APIs, and Google’s Gemini APIs** to ge
 
 ---
 
-### ⌨️ [Keysanity Typing Game](#)
+### ⌨️ [Keysanity Typing Game](https://github.com/sanilac6459/sep11-freedom-project)
 1st place winner 🥇 at SEP Freedom Project Expo — developed an interactive typing game with random word generation, score tracking, and performance metrics.  
 
 **Tech Stack:**  
