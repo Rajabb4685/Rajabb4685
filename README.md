@@ -109,7 +109,9 @@ A creative web app using **Python, REST APIs, and Google’s Gemini APIs** to ge
 ## 📊 GitHub Highlights
 - ✨ Contributions across **open source, academic, and personal projects**  
 - 💡 Experience with **version control, collaborative dev, and code reviews**  
-- 📈 Familiar with **ML pipelines, feature engineering, and model evaluation**  
+- 📈 Familiar with **ML pipelines, feature engineering, and model evaluation**
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajabb4685&theme=dark&hide_border=false)<br/>
 
 ---
 
