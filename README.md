@@ -2,9 +2,20 @@
 📍 New York City, NY  
 🎓 Bachelor of Arts in **Computer Science**, Hunter College, CUNY — *Expected May 2027*  
 
+## 👨‍💻 About Me
+Hello! 👋 I'm Rajab ✨. 
+
+I attend CUNY Hunter College as a junior. I'm majoring in computer science and minoring in mathematics. I started coding in middle school, when the Hour of Code by Code.org convinced me that coding was way more fun than recess.
+
+On campus 🏫, I'm a project lead for the Project Development Program, where I oversee multiple engineering teams, managing both the technical direction and overall project execution.
+
+Alongside my studies, I’m gaining hands-on experience applying machine learning in real-world industry programs. I currently serve as an Machine Learning and AI Fellow with Allstate and Break Through Tech AI, where I develop and evaluate predictive models, improve performance metrics, and collaborate on data-driven solutions focused on fairness, interpretability, and business impact.
+
+I’m passionate about staying active through badminton 🏸, expanding my knowledge with a good book 📚, and cherishing quality time with my family. I also love exploring new restaurants and discovering unique places. The city's too beautiful to just sit around ❤️.
+
 ---
 
-## 👨‍💻 About Me
+## Interest
 I’m passionate about **machine learning, AI, and software engineering**, with hands-on experience building ML models, scalable applications, and leading technical projects. My focus is on **clean code, scalable solutions, and continuous learning**.  
 
 - 💡 Interests: **Machine Learning, AI, Software Engineering, Cloud Computing**  
