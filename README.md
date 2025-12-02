@@ -11,7 +11,7 @@ On campus 🏫, I'm a project lead for the Project Development Program, where I 
 
 Alongside my studies, I’m gaining hands-on experience applying machine learning in real-world industry programs. I currently serve as an Machine Learning and AI Fellow with Allstate and Break Through Tech AI, where I develop and evaluate predictive models, improve performance metrics, and collaborate on data-driven solutions focused on fairness, interpretability, and business impact.
 
-I’m passionate about staying active through badminton 🏸, expanding my knowledge with a good book 📚, and cherishing quality time with my family. I also love exploring new restaurants and discovering unique places. The city's too beautiful to just sit around ❤️.
+I’m passionate about staying active through badminton 🏸, expanding my knowledge with a good book 📚, and cherishing quality time with my family. I also love exploring new restaurants and discovering unique places. 
 
 ---
 
