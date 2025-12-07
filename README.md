@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rajab Begim
 📍 New York City, NY  
-🎓 Bachelor of Arts in **Computer Science**, Hunter College, CUNY — *Expected May 2027*  
+🎓 Bachelor of Arts in **Computer Science**, Hunter College, CUNY 
 
 ## 👨‍💻 About Me
 Hello! 👋 I'm Rajab ✨. 
