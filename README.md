@@ -2,12 +2,12 @@
 📍 New York City, NY  
 🎓 Bachelor of Arts in **Computer Science**, Hunter College, CUNY 
 
-## 👨‍💻 About Me
+## About Me
 Hello! 👋 I'm Rajab ✨. 
 
 I attend CUNY Hunter College as a junior. I'm majoring in computer science and minoring in mathematics. I started coding in middle school, when the Hour of Code by Code.org convinced me that coding was way more fun than recess.
 
-On campus 🏫, I'm a project lead for the Project Development Program, where I oversee a engineering team, managing both the technical direction and overall project execution.
+On campus, I'm a project lead for the Project Development Program, where I oversee a engineering team, managing both the technical direction and overall project execution.
 
 I’m gaining hands-on experience applying machine learning in real-world industry programs. I currently serve as an Machine Learning and AI Fellow with Allstate and Break Through Tech AI, where I develop and evaluate predictive models, improve performance metrics, and collaborate on data-driven solutions focused on fairness, interpretability, and business impact.
 
@@ -16,13 +16,13 @@ I’m gaining hands-on experience applying machine learning in real-world indust
 ## Interest
 I’m passionate about **machine learning, AI, and software engineering**, with hands-on experience building ML models, scalable applications, and leading technical projects. My focus is on **clean code, scalable solutions, and continuous learning**.  
 
-- 💡 Interests: **Machine Learning, AI, Software Engineering, Cloud Computing**  
-- 🌱 Currently learning: **Cloud Solutions (AWS)**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rajab-begim/) · [Email](Rajabjeje347@gmail.com)
+- Interests: **Machine Learning, AI, Software Engineering, Cloud Computing**  
+- Currently learning: **Cloud Solutions (AWS)**  
+- Reach me: [LinkedIn](https://www.linkedin.com/in/rajab-begim/) · [Email](Rajabjeje347@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
