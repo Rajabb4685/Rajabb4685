@@ -13,15 +13,6 @@ I’m gaining hands-on experience applying machine learning in real-world indust
 
 ---
 
-## Interest
-I’m passionate about **machine learning, AI, and software engineering**, with hands-on experience building ML models, scalable applications, and leading technical projects. My focus is on **clean code, scalable solutions, and continuous learning**.  
-
-- Interests: **Machine Learning, AI, Software Engineering, Cloud Computing**  
-- Currently learning: **Cloud Solutions (AWS)**  
-- Reach me: [LinkedIn](https://www.linkedin.com/in/rajab-begim/) · [Email](Rajabjeje347@gmail.com)
-
----
-
 ## Tech Stack
 
 ### Languages
